@@ -1,0 +1,11 @@
+[Plugin]
+Module=Processing
+Depends=
+Loader=python3
+Name=Mail Processing Example Plugin
+Description=plugin
+Authors=Lars Kotthoff
+Copyright=GPLv3
+Website=
+Help=
+Hidden=false
